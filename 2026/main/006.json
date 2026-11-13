@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "session_no": "006",
+  "generation": 1,
+  "world": "main",
+  "bidding_start": "2026-10-21T15:00:00Z",
+  "bidding_end": "2026-10-22T14:00:00Z",
+  "thread_url": "https://forums.e-hentai.org/index.php?showtopic=302300",
+  "second_price_note": "second_price is the 2nd-highest valid bid of the item, NOT the price the winner paid. This is a first-price sealed-bid auction and the winning amount is not disclosed. null when there was no 2nd valid bid.",
+  "items": []
+}
