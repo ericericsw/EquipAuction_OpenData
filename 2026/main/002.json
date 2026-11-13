@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "session_no": "002",
+  "generation": 1,
+  "world": "main",
+  "bidding_start": "2026-10-17T15:00:00Z",
+  "bidding_end": "2026-10-18T14:00:00Z",
+  "thread_url": "https://forums.e-hentai.org/index.php?showtopic=302118",
+  "second_price_note": "second_price is the 2nd-highest valid bid of the item, NOT the price the winner paid. This is a first-price sealed-bid auction and the winning amount is not disclosed. null when there was no 2nd valid bid.",
+  "items": [
+    {
+      "item_id": "002One01",
+      "equip_id": "317109366",
+      "equip_url": "https://hentaiverse.org/equip/317109366/99fede90a2",
+      "equip_name": "Exquisite Rapier of Slaughter",
+      "category": "One-handed",
+      "quality": "Exquisite",
+      "level": 500,
+      "pab": "SD",
+      "base_average": 139.83,
+      "base_percentage": 49.58,
+      "seller": "ericeric91",
+      "start_price": 1000,
+      "valid_bids": 0,
+      "outcome": "NO_BIDS",
+      "winner": null,
+      "second_price": null
+    }
+  ]
+}
