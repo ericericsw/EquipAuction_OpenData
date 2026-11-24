@@ -11,6 +11,15 @@
       "bidding_end": "2026-11-15T08:00:00Z",
       "thread_url": "https://forums.e-hentai.org/index.php?showtopic=303009",
       "path": "2026/main/001.json"
+    },
+    {
+      "session_no": "002",
+      "generation": 1,
+      "world": "main",
+      "bidding_start": "2026-11-18T08:00:00Z",
+      "bidding_end": "2026-11-22T08:00:00Z",
+      "thread_url": "https://forums.e-hentai.org/index.php?showtopic=303260",
+      "path": "2026/main/002.json"
     }
   ]
 }
